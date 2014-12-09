@@ -2,7 +2,7 @@
 
 This is a skeleton template using AngularJS, Bourbon and Neat, NodeJS, and ExpressJS(4) so you can just shoot it and Gulp. The skeleton is based on several Yeoman generators that I have used but did not like because I wanted to use a different task runner than Grunt, thus I used Gulp, and I wanted Bourbon and Neat right out of the box. 
 
-This skeleton connects Bourbon and Neat through NodeJS and uses ExpressJS to allow you to create various routes you may need. Everything is connected through AngularJS, and I have also included UI Router so you would not have to. Firebase and Angularfire have also been included to transfer data to and from a database. 
+This skeleton connects Bourbon and Neat through NodeJS and uses ExpressJS to allow you to create various routes you may need. Everything is connected through AngularJS, and I have also included UI Router so you would not have to.  
 
 The current directory tree is as follows:
 
